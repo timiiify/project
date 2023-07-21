@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/azureml/inference-base-1804:latest",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-18.04",
   "features": {
   }
 }
