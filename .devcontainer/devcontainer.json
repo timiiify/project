@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/azureml/inference-base-1804:latest",
+  "features": {
+  }
+}
